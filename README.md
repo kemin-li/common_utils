@@ -1,2 +1,4 @@
-# aws_utils
-utility code for AWS
+# common_utils
+utility code for
+- AWS Glue
+- Pandas
